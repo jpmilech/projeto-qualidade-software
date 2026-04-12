@@ -2,7 +2,7 @@
 
 ## 👥 Integrantes
 - João Pedro Milech
-- João Marcelo Bittar
+- João Marcelo Bitar
 - Enzo Sabbado
 
 ## 🎯 Objetivo do Repositório
