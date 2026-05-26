@@ -10,6 +10,7 @@
 - João Pedro Millech
 
 ---
+# OBS: Os testes do codegen e os respectivos refatorados estão no mesmo arquivo, o do codegen está comentado
 
 # 🔹 1. Fluxos funcionais escolhidos
 
@@ -68,9 +69,7 @@ playwright codegen https://local-eats-unisenac.vercel.app/
 
 ## 🔗 Link para os códigos gerados
 
-👉 https://github.com/jpmilech/projeto-qualidade-software/tree/main/src
-
-Os arquivos estão dentro de:
+https://github.com/jpmilech/projeto-qualidade-software/tree/main/src/PBL07/tests
 
 ```text
 src/PBL07/
@@ -88,7 +87,7 @@ src/PBL07/
 
 ### 🔗 Link para o teste
 
-👉 https://github.com/seu-repositorio/tests/test_login.py
+https://github.com/jpmilech/projeto-qualidade-software/tree/main/src/PBL07/tests
 
 ### 📌 O que o teste faz?
 
@@ -112,11 +111,11 @@ src/PBL07/
 
 ### 🔗 Link para Page Object
 
-👉 https://github.com/seu-repositorio/pages/login_page.py
+https://github.com/jpmilech/projeto-qualidade-software/tree/main/src/PBL07/pages
 
 ### 🔗 Link para teste refatorado
 
-👉 https://github.com/seu-repositorio/tests/test_login.py
+https://github.com/jpmilech/projeto-qualidade-software/tree/main/src/PBL07/tests
 
 ### 🧠 Melhorias realizadas
 
