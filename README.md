@@ -33,3 +33,7 @@ O projeto segue a metodologia **PBL (Aprendizagem Baseada em Problemas)**, na qu
 **Curso:** ADS / SPI  
 **Disciplina:** Qualidade de Software  
 **Professor:** Luciano Zanuz
+
+conta localeats:
+joaoEats@gmail.com
+joao123

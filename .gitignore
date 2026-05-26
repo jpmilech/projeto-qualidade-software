@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Pytest
+.pytest_cache/
+
+# Playwright
+playwright-report/
+test-results/
+
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Artefatos temporários
+artefatos/
+
+# Cache
+.cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Arquivos locais
+.env
